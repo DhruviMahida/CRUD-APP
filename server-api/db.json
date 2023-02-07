@@ -1,0 +1,124 @@
+{
+  "users": [
+    {
+      "fname": "Dhvani",
+      "lname": "Mahida",
+      "email": "mahidadhwani@gmail.com",
+      "address": "Bodal",
+      "phone": 8511819092,
+      "id": 1
+    },
+    {
+      "fname": "Parthiv",
+      "lname": "Yadav",
+      "email": "parthuyadav@gmail.com",
+      "address": "Bharuch",
+      "phone": 8000142721,
+      "id": 2
+    },
+    {
+      "fname": "Dhruvi",
+      "lname": "Mahida",
+      "email": "dhruviimahida@gmail.com",
+      "address": "Borsad",
+      "phone": 9725331787,
+      "id": 3
+    },
+    {
+      "fname": "Shraddha",
+      "lname": "Rana",
+      "email": "ranashraddha@gmail.com",
+      "address": "Surat",
+      "phone": 4573895364,
+      "id": 4
+    },
+    {
+      "fname": "Dhruvraj",
+      "lname": "Mahida",
+      "email": "mahidadhruv@gmail.com",
+      "address": "Bodal",
+      "phone": 6633428946,
+      "id": 5
+    },
+    {
+      "fname": "Yash",
+      "lname": "Patel",
+      "email": "patelyash@gmail.com",
+      "address": "Surat",
+      "phone": 6546728389,
+      "id": 6
+    },
+    {
+      "fname": "Charmi",
+      "lname": "Shah",
+      "email": "shahcharmi@gmail.com",
+      "address": "Baroda",
+      "phone": 6546728389,
+      "id": 7
+    },
+    {
+      "fname": "Nakul",
+      "lname": "Patel",
+      "email": "patelnakul@gmail.com",
+      "address": "Mogar",
+      "phone": 6546728389,
+      "id": 8
+    },
+    {
+      "fname": "Bhavya",
+      "lname": "Shah",
+      "email": "shahbhavya@gmail.com",
+      "address": "Borsad",
+      "phone": 6546728389,
+      "id": 9
+    },
+    {
+      "fname": "Vivek",
+      "lname": "Patel",
+      "email": "patelvivek@gmail.com",
+      "address": "Vasad",
+      "phone": 6546728389,
+      "id": 10
+    },
+    {
+      "fname": "Hemant",
+      "lname": "Thakkar",
+      "email": "thakkarhemant@gmail.com",
+      "address": "Bharuch",
+      "phone": 6546728389,
+      "id": 11
+    },
+    {
+      "fname": "Sakshi",
+      "lname": "Bhatt",
+      "email": "bhattsakshi@gmail.com",
+      "address": "Borsad",
+      "phone": 6546728389,
+      "id": 12
+    },
+    {
+      "fname": "Jayraj",
+      "lname": "Jadeja",
+      "email": "jadejajayraj@gmail.com",
+      "address": "Bodal",
+      "phone": 6546728389,
+      "id": 13
+    },
+    {
+      "fname": "Krupa",
+      "lname": "Yadav",
+      "email": "yadavkrupa@gmail.com",
+      "address": "Vasad",
+      "phone": 6546728389,
+      "id": 14
+    },
+    {
+      "fname": "Manan",
+      "lname": "Shah",
+      "email": "shahmanan@gmail.com",
+      "address": "Surat",
+      "phone": 6546728389,
+      "id": 15
+    }
+  ]
+}
